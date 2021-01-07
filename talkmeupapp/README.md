@@ -51,4 +51,4 @@ After the SearchPage component, on the 'search' page is a button that says 'Get 
 
 # Running the web app
 
-With [npm] installed I simply type [npm start] into a console and it opens the web app.
+With npm installed I simply type npm start into a console and it opens the web app.
