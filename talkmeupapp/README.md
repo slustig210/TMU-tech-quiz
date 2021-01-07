@@ -1,4 +1,4 @@
-Talk Me Up Search App README
+# Talk Me Up Search App README
 
 note -- the consumer and producer program was short and I had a lot of comments so I did not write any README for that.
 
